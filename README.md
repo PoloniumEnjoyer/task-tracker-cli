@@ -17,7 +17,3 @@ Each task has an `id`, `description`, `status` (`todo`, `in-progress`, or `done`
 
     java Main add "Buy milk"
     java Main list
-
-## Planned
-
-mark-in-progress and mark-done.
