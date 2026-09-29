@@ -85,7 +85,7 @@ public class JsonHelper {
 
                 int start = i;
                 int end = json.indexOf('}', start);
-                taskChunks.add(json.substring(start, end));
+                taskChunks.add(json.substring(start, end + 1));
                 i = end + 1;
             }
             

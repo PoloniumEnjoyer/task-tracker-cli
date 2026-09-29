@@ -20,4 +20,4 @@ Each task has an `id`, `description`, `status` (`todo`, `in-progress`, or `done`
 
 ## Planned
 
-update, delete, mark-in-progress, mark-done, and filtering with `list todo`, `list in-progress`, `list done`.
+mark-in-progress and mark-done.
